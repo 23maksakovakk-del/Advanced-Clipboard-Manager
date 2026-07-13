@@ -1,0 +1,1 @@
+# Advanced-Clipboard-Manager
